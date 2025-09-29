@@ -1,0 +1,38 @@
+﻿  Active_Brick.cpp
+  Ball.cpp
+  Ball_Set.cpp
+  Border.cpp
+  Config.cpp
+  Engine.cpp
+  Explosion.cpp
+  Explosive_Ball.cpp
+  Falling_Letter.cpp
+  Final_Letter.cpp
+  Game_Title.cpp
+  Gate.cpp
+  Indicator.cpp
+  Info_Panel.cpp
+  Label.cpp
+  Laser_Beam.cpp
+  Laser_Beam_Set.cpp
+  Level.cpp
+  Level_Data.cpp
+  Level_Title.cpp
+  Compiling...
+  Main.cpp
+  Monster.cpp
+  Monster_Set.cpp
+  Mop.cpp
+  Mop_Cylinder.cpp
+  Mop_Indicator.cpp
+  Platform.cpp
+  Platform_Expanding.cpp
+  Platform_Glue.cpp
+  Platform_Laser.cpp
+  Platform_State.cpp
+  Common.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1605 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Popcorn.vcxproj -> D:\DEVELOPMENT\WORK\Popcorn_Project\Popcorn\Release\Popcorn.exe
