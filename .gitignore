@@ -1,0 +1,9 @@
+# Visual Studio cache
+.vs/
+*.ipch
+
+# (по желанию) сборочные/временные артефакты
+*.obj
+*.pdb
+Debug/
+Release/
