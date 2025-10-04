@@ -11,7 +11,7 @@
 void UANS_AITeleport::NotifyTick(USkeletalMeshComponent* MeshComp, UAnimSequenceBase* Animation, float FrameDeltaTime, const FAnimNotifyEventReference& EventReference)
 
 {
-	Super::NotifyBegin(MeshComp, Animation, FrameDeltaTime, EventReference);
+	Super::NotifyTick(MeshComp, Animation, FrameDeltaTime, EventReference);
 
 	if(MeshComp->GetOwner())
 	{
@@ -34,7 +34,7 @@ void UANS_AITeleport::NotifyTick(USkeletalMeshComponent* MeshComp, UAnimSequence
 					FVector PlayerLoc = Player->GetActorLocation();
 
 					FVector Direction = (StartLoc - PlayerLoc).GetSafeNormal();
-					FVector TeleportLoc = PlayerLoc * (Direction * Offset);
+					FVector TeleportLoc = PlayerLoc + (Direction * Offset);
 
 					FRotator LookAtRotation = UKismetMathLibrary::FindLookAtRotation(StartLoc, TeleportLoc);
 
