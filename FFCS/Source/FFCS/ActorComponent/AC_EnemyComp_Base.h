@@ -3,39 +3,28 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameplayTagContainer.h"
 #include "Components/ActorComponent.h"
 #include "FFCS/Asset/FFCS_Data.h"
-#include "AC_FFCC_Base.generated.h"
+#include "AC_EnemyComp_Base.generated.h"
 
 
 UCLASS(Blueprintable, ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class FFCS_API UAC_FFCC_Base : public UActorComponent
+class FFCS_API UAC_EnemyComp_Base : public UActorComponent
 {
 	GENERATED_BODY()
 
 public:	
 	// Sets default values for this component's properties
-	UAC_FFCC_Base();
+	UAC_EnemyComp_Base();
 
-public:
 	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable)
 	EAttackHitDirection HitDirection(AActor* Instigator);
 
 	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable)
-	void PlayHitMontage(EAttackHitDirection HitDirection);
-
-	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable)
-	void SetCurrentEnemy(AActor* EnemyRef);
+	void SetAttackPlayer(bool AttackPlayer);
 
 	UFUNCTION(BlueprintImplementableEvent, BlueprintPure, BlueprintCallable)
-	AActor* GetCurrentEnemy();
-
-	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable)
-	void SetTag(const FGameplayTag& InTag);
-
-	UFUNCTION(BlueprintImplementableEvent, BlueprintPure, BlueprintCallable)
-	FGameplayTag GetTag();
+	bool GetAttackPlayer();
 
 //protected:
 //	// Called when the game starts
@@ -44,6 +33,6 @@ public:
 //public:	
 //	// Called every frame
 //	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
-		
+//
+//		
 };
