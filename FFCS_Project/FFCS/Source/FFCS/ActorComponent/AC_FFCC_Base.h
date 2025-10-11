@@ -43,6 +43,9 @@ public:
 	UFUNCTION(BlueprintImplementableEvent, BlueprintPure, BlueprintCallable)
 	FGameplayTag GetTag();
 
+	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable, Category = "Counter")
+	void PlayCounterMontage();
+
 //protected:
 //	// Called when the game starts
 //	virtual void BeginPlay() override;
