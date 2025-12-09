@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_ABP_Manny_Child.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_calf_l_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_calf_r_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_clavicle_l_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_clavicle_r_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_foot_l_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_foot_r_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_hand_l_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_hand_r_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_lowerarm_l_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_lowerarm_r_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_thigh_l_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_thigh_r_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_upperarm_l_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_Manny_upperarm_r_anim.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_MM_Fall_Loop.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_MM_Idle.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_MM_Jump.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_MM_Land.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_MM_Run_Fwd.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_MM_T_Pose.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_MM_Walk_Fwd.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann/Mann_MM_Walk_InPlace.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_ABP_Manny_Child.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_MM_Fall_Loop.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_MM_Idle.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_MM_Jump.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_MM_Land.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_MM_Run_Fwd.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_MM_T_Pose.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_MM_Walk_Fwd.uasset",
+				"D:/RAZRABOTKA/UE5/TestRetarg/Content/Characters/Mann2/Mann2_MM_Walk_InPlace.uasset"
+			]
+		}
+	]
+}
