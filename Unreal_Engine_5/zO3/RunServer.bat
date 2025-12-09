@@ -1,0 +1,1 @@
+"D:\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe" "D:\RAZRABOTKA\UE5\O3\O3.uproject" -server -log -port=41000
