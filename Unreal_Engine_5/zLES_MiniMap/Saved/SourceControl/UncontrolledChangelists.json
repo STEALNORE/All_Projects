@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DEVELOPMENT/UE5/zLES_MiniMap/Content/RT_SceneCapture.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_MiniMap/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2L/DZ6ITDCIR70J7N8LV823TR.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_MiniMap/Content/T_Map.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_MiniMap/Content/M_Map.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_MiniMap/Content/WBP_Map.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_MiniMap/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/DEVELOPMENT/UE5/zLES_MiniMap/Content/MPC_Data.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_MiniMap/Content/WBP_MainWidget.uasset"
+			]
+		}
+	]
+}
