@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DEVELOPMENT/UE5/zLES_Ladder/Content/Ladder/BP_Ladder.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_Ladder/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_Ladder/Content/Ladder/BS_ClimbLadder.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_Ladder/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_Ladder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/60/K6L4LT8DAFSRJ7OW2MM95T.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_Ladder/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AY/S9GAAPULWPJ9AE9TUMWRKC.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_Ladder/Content/LDR_O12_Std_Rlx_To_Dscd_RU_Montage.uasset"
+			]
+		}
+	]
+}
