@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/BPI_Interact.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/ThirdPerson/Input/Actions/IA_MovePlatform.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/ThirdPerson/Input/Actions/IA_Trace.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/BP_Spotlight.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/BP_Door.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/BP_Button.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4A/7D9OAAOQMJ0QB5PMNUTUED.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/I7/FQ43MLU2JS5MTPA71FGQK4.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_IndianaPuzzle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SV/2XGJ91K8B4YO710BUVY18Q.uasset"
+			]
+		}
+	]
+}
