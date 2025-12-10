@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/RAZRABOTKA/UE5/Thermal_Imager/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/RAZRABOTKA/UE5/Thermal_Imager/Content/M_TeploVision.uasset",
+				"D:/RAZRABOTKA/UE5/Thermal_Imager/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/RAZRABOTKA/UE5/Thermal_Imager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/RAZRABOTKA/UE5/Thermal_Imager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/RAZRABOTKA/UE5/Thermal_Imager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"D:/RAZRABOTKA/UE5/Thermal_Imager/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+			]
+		}
+	]
+}
