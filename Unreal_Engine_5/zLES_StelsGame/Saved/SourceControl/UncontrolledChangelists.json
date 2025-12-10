@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/Detection.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/BS_Crouch.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/8A/OHI5BRRAGZBKNQOGYYS87O.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/ThirdPerson/Blueprints/E_States.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/91/AKQ3FX5TBGUYE1Y3TJ7I2P.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/H0/M0H3YIMVPF1E9YNZWBOIHV.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/NE/HQMXK9XBTYCT726H45CIUP.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/BP_Stone.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/ThirdPerson/Input/Actions/IA_Throw.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/Throw_1Montage.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/WBP_Detection.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/BPI_Detection.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/NewInstancedStaticMeshFoliage.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/NewInstancedStaticMeshFoliage1.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/NewInstancedStaticMeshFoliage2.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/Field_Plants_Pack/Plants/Meshes/SM_Plant_01_1_G.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/Field_Plants_Pack/Plants/Meshes/SM_Plant_01_2_G.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/Field_Plants_Pack/Plants/Meshes/SM_Plant_01_3_G.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/Paired_H2H_Stealth_KarateChopKO_Att.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/Paired_H2H_Stealth_KarateChopKO_Att_Montage.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/Carrying_Anim_Montage.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/ThirdPerson/Input/Actions/IA_Carry.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G8/ZKX463WMRJ81V7BBV45WFG.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/D4/9XJEOYX0UUQB4A1KDRBS07.uasset",
+				"D:/DEVELOPMENT/UE5/zLES_StelsGame/Content/StelsGameAsset/Throw__1__Anim_Montage.uasset"
+			]
+		}
+	]
+}
