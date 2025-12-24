@@ -1,9 +1,40 @@
-# Visual Studio cache
+# =========================
+# Unreal Engine
+# =========================
+**/Binaries/
+**/Intermediate/
+**/DerivedDataCache/
+**/Saved/
+
+# Unreal build artifacts
+*.pch
+*.obj
+*.lib
+*.dll
+*.exe
+*.exp
+*.log
+
+# =========================
+# Visual Studio
+# =========================
 .vs/
 *.ipch
-
-# (по желанию) сборочные/временные артефакты
-*.obj
 *.pdb
-Debug/
-Release/
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS / System
+# =========================
+Thumbs.db
+.DS_Store
+
+# =========================
+# Optional (Crash reports)
+# =========================
+*.dmp
