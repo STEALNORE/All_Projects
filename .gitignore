@@ -1,19 +1,14 @@
 # =========================
 # Unreal Engine
 # =========================
-**/Binaries/
-**/Intermediate/
-**/DerivedDataCache/
-**/Saved/
-
-# Unreal build artifacts
-*.pch
-*.obj
-*.lib
-*.dll
-*.exe
-*.exp
-*.log
+Binaries/ 
+DerivedDataCache/ 
+Intermediate/ 
+Saved/ 
+*.log 
+*.sln 
+*.opensdf 
+*.sdf 
 
 # =========================
 # Visual Studio
